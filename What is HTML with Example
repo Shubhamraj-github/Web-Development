@@ -1,0 +1,41 @@
+Topic:- What is HTML with Examples.
+
+Expected Outcomes:- We will know how to write HTML code.
+
+Q). What is HTML?
+Ans:- HTML stands for Hyper Text Markup Language. It is used for creating web pages and web applications.
+
+Q). Example of HTML.
+Ans:-
+
+<!DOCTYPE>  
+<html>  
+<head>  
+<title>Web page title</title>  
+</head>  
+<body>  
+<h1>Day1</h1>  
+<p>What is HTML</p>  
+</body>  
+</html>
+
+Q). Description of HTML Example.
+Ans:-
+
+<!DOCTYPE>: It defines the document type or it instruct the browser about the version of HTML.
+
+<html > :This tag informs the browser that it is an HTML document. Text between html tag describes the web document. 
+         It is a container for all other elements of HTML except <!DOCTYPE>
+
+<head>: It should be the first element inside the <html> element, which contains the metadata(information about the document). 
+        It must be closed before the body tag opens.
+
+<title>: As its name suggested, it is used to add title of that HTML page which appears at the top of the browser window. 
+         It must be placed inside the head tag and should close immediately.
+
+<body> : Text between body tag describes the body content of the page that is visible to the end user. 
+         This tag contains the main content of the HTML document.
+
+<h1> : Text between <h1> tag describes the first level heading of the webpage.
+
+<p> : Text between <p> tag describes the paragraph of the webpage.
